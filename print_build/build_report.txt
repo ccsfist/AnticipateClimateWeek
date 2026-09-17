@@ -1,0 +1,34 @@
+Repository: /Users/deo/aadecisionoverview
+Start page: index.md
+Pages followed: 16
+
+DATA-NEXT ORDER
+01. index.md
+02. disastermandate.md
+03. probabilityanswers.md
+04. aahat.md
+05. aahatanswers.md
+06. budgets.md
+07. budgetanswers.md
+08. forecast.md
+09. forecastanswers.md
+10. forecasterror.md
+11. forecasterroranswers.md
+12. actiondesign.md
+13. actiondesignanswers.md
+14. designtools.md
+15. operation.md
+16. finished.md
+
+MKDOCS CROSS-CHECK
+data-next chain and mkdocs nav agree.
+
+UNREACHABLE MARKDOWN FILES
+skill.md
+
+WARNINGS
+None
+
+OUTPUTS
+/Users/deo/aadecisionoverview/print_build/combined_print.md
+/Users/deo/aadecisionoverview/print_build/combined_print.html

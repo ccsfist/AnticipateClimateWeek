@@ -1,0 +1,45 @@
+site_name: Anticipatory Action for Disasters: NY Climate Week 2026
+theme:
+  name: material
+  logo: ""
+
+  features:
+    #- navigation.tabs # uncomment this to make navigation on top
+    - navigation.sections
+    - toc.integrate
+    #- navigation.footer
+
+nav:
+- 'index.md'
+- 'disastermandate.md' # this is intro and IPC table
+- 'probabilityanswers.md'
+- 'aahat.md'
+- 'aahatanswers.md'
+- 'budgets.md'
+- 'budgetanswers.md'
+- 'forecast.md'
+- 'forecastanswers.md'
+- 'forecasterror.md'
+- 'forecasterroranswers.md'
+- 'actiondesign.md'
+- 'actiondesignanswers.md'
+- 'designtools.md'
+- 'operation.md'
+- 'finished.md'
+
+plugins:
+  - search
+  - macros
+
+extra:
+  kobo_form_id: iusvpk4H
+  analytics:
+    provider: google
+    property: G-YM4PVFJE0F
+
+extra_javascript:
+  - javascripts/slide_manager.js
+  - javascripts/kobo_loader.js # should no longer be necessary now that there is slide-manager.js
+
+extra_css:
+  - stylesheets/styles.css
