@@ -2,6 +2,8 @@
 
 Here is what happened in Mauritania
 
+# Perspectives of Das Dores Ngueussie Ngamini and Aminata Diop
+
 ## The draft monitoring dashboard
 <a href="https://fist.iri.columbia.edu/publications/docs/Mauritania_AA_FLexDashboard_JAS_2026_FR/#r%C3%A9sultat-au-niveau-national" target="_blank">
     Pop out the Dashboard 

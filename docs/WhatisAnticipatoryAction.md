@@ -16,4 +16,4 @@
 
 ## Perspective from Richard Choularton, United Nations World Food Program
 
-<div id="slide-config" data-type="simple" data-next="../AA4communityAdaptationexample.md/" data-width="100%"> </div>
+<div id="slide-config" data-type="simple" data-next="../AA4communityAdaptationexample/" data-width="100%"> </div>
