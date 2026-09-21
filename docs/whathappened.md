@@ -8,12 +8,6 @@ Here is what happened in Mauritania
 <a href="https://fist.iri.columbia.edu/publications/docs/Mauritania_AA_FLexDashboard_JAS_2026_FR/#r%C3%A9sultat-au-niveau-national" target="_blank">
     Pop out the Dashboard 
 </a>
-<div style="text-align: center; margin-top: 10px;">
-    <iframe id="resizableFrame"
-        src="https://fist.iri.columbia.edu/publications/docs/Mauritania_AA_FLexDashboard_JAS_2026_FR/#r%C3%A9sultat-au-niveau-national"
-        width="1200" height="1300"
-        style="border:1px solid black; transition: all 0.3s ease;"></iframe>
-</div>
 
 ## The official international document 
 <a href="https://cerf.un.org/what-we-do/allocation/2026/summary/CERF-MRT-26-RR-1526" target="_blank">
