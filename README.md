@@ -1,5 +1,19 @@
 # Slide Instructions
 
+Buzzwords are generated in noki_evacuate_process repo--see readme there for how they work
+
+## For manual update of the table that creates the compound trigger choices, you need to do this:
+
+in docs, run 
+
+```python standalone_process_binary_form.py```
+
+that creates compoundchoices.html
+
+Then you need to do 
+```mkdocs gh-deploy``` from the AnticipateClimateWeek Directory
+And stall until it updates
+
 **This is the example repo for the scripts, code, and readme for this family of mkdocs kobo workflows**
 
 This project uses mkdocs, kobo, and some javascript to make an educational or project decision workflow where output is saved in kobo.  It uses a simplified "Configuration Div" system to handle slide logic (forms, redirects, images, and email persistence). Instead of writing complex HTML/JS in every slide, you simply place one configuration line at the bottom of your whatever.md file in docs.

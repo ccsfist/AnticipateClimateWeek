@@ -11,20 +11,15 @@ theme:
 
 nav:
 - 'index.md'
-- 'disastermandate.md' # this is intro and IPC table
-- 'probabilityanswers.md'
-- 'aahat.md'
-- 'aahatanswers.md'
-- 'budgets.md'
-- 'budgetanswers.md'
-- 'forecast.md'
-- 'forecastanswers.md'
-- 'forecasterror.md'
-- 'forecasterroranswers.md'
-- 'actiondesign.md'
-- 'actiondesignanswers.md'
-- 'designtools.md'
-- 'operation.md'
+- 'learninganddoing.md' 
+- 'WhatisAnticipatoryAction.md'
+- 'AA4communityAdaptationexample.md'
+- 'forecastperspectives.md'
+- 'ChoosingTriggers.md'
+- 'triggerschosen.md'
+- 'whatdoyouneed.md'
+- 'whatdoyouthinkhappened.md'
+- 'whathappened.md'
 - 'finished.md'
 
 plugins:
