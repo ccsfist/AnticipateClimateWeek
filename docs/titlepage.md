@@ -2,7 +2,7 @@
 
 ## Disaster Readiness Summit with The National Center for Disaster Preparedness, 11:00AM - 12:30 PM, Tuesday, Sept 22nd at Teachers College, Columbia University
 
-<img src="groupanalyzing.jpg" alt="groupanalyzing.jpg" style="width:500px;">
+![](groupanalyzing.jpg)
 
 What if you could take action before a crisis, using a forecast?  In this El Niño year, anticipatory action projects are doing that right now, as droughts and floods are happening around the globe, they are activating millions of dollars of pre-funded disaster action before the disasters happen! 
 
