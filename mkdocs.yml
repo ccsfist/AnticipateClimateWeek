@@ -1,4 +1,4 @@
-site_name: Anticipatory Action for Disasters
+site_name: Anticipatory Action for Disasters https://ccsfist.github.io/AnticipateClimateWeek +1-646-217-0881
 theme:
   name: material
   logo: ""
@@ -11,6 +11,7 @@ theme:
 
 nav:
 - 'index.md'
+- 'titlepage.md'
 - 'learninganddoing.md' 
 - 'WhatisAnticipatoryAction.md'
 - 'AA4communityAdaptationexample.md'

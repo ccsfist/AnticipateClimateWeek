@@ -1,4 +1,4 @@
-# Anticipating, Acting before Disaster https://ccsfist.github.io/AnticipateClimateWeek/
+# Anticipating, Acting before Disaster **https://ccsfist.github.io/AnticipateClimateWeek**
 
 ## Session Participation Materials
 
