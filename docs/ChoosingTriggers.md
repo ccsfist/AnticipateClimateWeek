@@ -12,7 +12,5 @@
 
 Here is a tool for making choices between Anticipatory Action rules that has been used this past year
 
-<a href="https://ccsfist.github.io/compoundtriggerdecisions/" target="_blank">
-    Pop out the Compound Choice Tool 
-</a>
-<div id="slide-config" data-type="simple" data-next="../triggerschosen/" </div>
+
+<div id="slide-config" data-type="simple" data-next="../compound/" </div>
